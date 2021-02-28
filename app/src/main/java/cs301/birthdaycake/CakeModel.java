@@ -6,4 +6,8 @@ public class CakeModel {
     public boolean hasFrosting = true;
     public boolean hasCandles = true;
 
+    //lab 4 balloon
+    public float balloonX = -20;
+    public float balloonY = -20;
+    public boolean hasBalloon = false;
 }
